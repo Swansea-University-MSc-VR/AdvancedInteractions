@@ -4,7 +4,7 @@
 QualitySettings:
   m_ObjectHideFlags: 0
   serializedVersion: 5
-  m_CurrentQuality: 4
+  m_CurrentQuality: 6
   m_QualitySettings:
   - serializedVersion: 3
     name: Performant
@@ -358,7 +358,7 @@ QualitySettings:
     excludedTargetPlatforms: []
   m_TextureMipmapLimitGroupNames: []
   m_PerPlatformDefaultQuality:
-    Android: 4
+    Android: 6
     CloudRendering: 2
     GameCoreScarlett: 2
     GameCoreXboxOne: 2
@@ -366,9 +366,9 @@ QualitySettings:
     Nintendo Switch: 2
     PS4: 2
     PS5: 2
-    Server: 4
+    Server: 6
     Stadia: 2
-    Standalone: 4
+    Standalone: 6
     WebGL: 1
     Windows Store Apps: 2
     XboxOne: 2
