@@ -1,5 +1,5 @@
 {
-    "name": "XRI Default Input Actions",
+    "name": "XRI Default Input Actions Hand Animations",
     "maps": [
         {
             "name": "XRI RightHand Animation",
@@ -9,7 +9,7 @@
                     "name": "Index Finger In",
                     "type": "Button",
                     "id": "2e853a09-331d-4edb-8403-c0d621aa5bb7",
-                    "expectedControlType": "Button",
+                    "expectedControlType": "",
                     "processors": "",
                     "interactions": "",
                     "initialStateCheck": true
