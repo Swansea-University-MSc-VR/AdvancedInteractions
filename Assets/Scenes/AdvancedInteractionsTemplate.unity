@@ -38,7 +38,6 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.17793652, g: 0.22278258, b: 0.30491138, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -168,7 +167,6 @@ Transform:
   - {fileID: 1078386537}
   - {fileID: 574697250}
   - {fileID: 1922798464}
-  - {fileID: 719917457}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &52532191
@@ -3445,80 +3443,6 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 7613333117541437585, guid: c1ba8c53d80d3b6499fa2f153355b346,
     type: 3}
   m_PrefabInstance: {fileID: 669805731}
-  m_PrefabAsset: {fileID: 0}
---- !u!1001 &719917456
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 47273871}
-    m_Modifications:
-    - target: {fileID: 526160122103264896, guid: 639c17ea731f536448752de5947dc954,
-        type: 3}
-      propertyPath: m_Name
-      value: Barstool_29in_KN002
-      objectReference: {fileID: 0}
-    - target: {fileID: 526160122103687840, guid: 639c17ea731f536448752de5947dc954,
-        type: 3}
-      propertyPath: m_LocalPosition.x
-      value: -0.3556127
-      objectReference: {fileID: 0}
-    - target: {fileID: 526160122103687840, guid: 639c17ea731f536448752de5947dc954,
-        type: 3}
-      propertyPath: m_LocalPosition.y
-      value: -0.19076043
-      objectReference: {fileID: 0}
-    - target: {fileID: 526160122103687840, guid: 639c17ea731f536448752de5947dc954,
-        type: 3}
-      propertyPath: m_LocalPosition.z
-      value: -2.9719007
-      objectReference: {fileID: 0}
-    - target: {fileID: 526160122103687840, guid: 639c17ea731f536448752de5947dc954,
-        type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 526160122103687840, guid: 639c17ea731f536448752de5947dc954,
-        type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0.000000021855694
-      objectReference: {fileID: 0}
-    - target: {fileID: 526160122103687840, guid: 639c17ea731f536448752de5947dc954,
-        type: 3}
-      propertyPath: m_LocalRotation.y
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 526160122103687840, guid: 639c17ea731f536448752de5947dc954,
-        type: 3}
-      propertyPath: m_LocalRotation.z
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 526160122103687840, guid: 639c17ea731f536448752de5947dc954,
-        type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 526160122103687840, guid: 639c17ea731f536448752de5947dc954,
-        type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 526160122103687840, guid: 639c17ea731f536448752de5947dc954,
-        type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 639c17ea731f536448752de5947dc954, type: 3}
---- !u!4 &719917457 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 526160122103687840, guid: 639c17ea731f536448752de5947dc954,
-    type: 3}
-  m_PrefabInstance: {fileID: 719917456}
   m_PrefabAsset: {fileID: 0}
 --- !u!1 &722236789
 GameObject:

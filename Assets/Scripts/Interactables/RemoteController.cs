@@ -7,7 +7,7 @@ using Assets.Scripts.Helpers;
 
 public class RemoteController : MonoBehaviour
 {
-    private XRGrabInteractable _xRGrabInteractable;
+    private UnityEngine.XR.Interaction.Toolkit.Interactables.XRGrabInteractable _xRGrabInteractable;
 
     public Transform raycastOrigin;
     public LayerMask layerMask;
@@ -16,7 +16,7 @@ public class RemoteController : MonoBehaviour
 
     private void Start()
     {
-        _xRGrabInteractable = GetComponent<XRGrabInteractable>();
+        _xRGrabInteractable = GetComponent<UnityEngine.XR.Interaction.Toolkit.Interactables.XRGrabInteractable>();
 
         _xRGrabInteractable.activated.AddListener(PressPowerButton);
     }
